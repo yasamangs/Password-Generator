@@ -8,29 +8,29 @@ This project is a simple password generator built using Streamlit. It allows use
 2. **Random Password:** A password with customizable length, including options to include numbers and/or symbols.
 3. **Memorable Password:** A password generated from a list of words, with options to control the number of words, separator, and capitalization.
 
+![Password Generator](https://github.com/pytopia/Project-Based-Python/raw/main/Lectures/06%20Level%20I/02%20Password%20Generator/images/password-types.png)
+
 ## Features
 
 - **Interactive UI:** The application provides a user-friendly interface with options to select the type of password and customize the output.
 - **Password Customization:** Users can customize the password by choosing its length, the inclusion of numbers or symbols, and the format of the memorable password.
 - **Test Suite:** The project includes a set of tests to ensure the correctness of the password generation functions.
 
-## Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/your-username/password-generator.git
    ```
 
 2. Install the required dependencies:
- 
-  ```bash
-  pip install -r requirements.txt
-  ```
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Run the application:
    
    ```bash
    streamlit run app.py
-   
+   ```
 
