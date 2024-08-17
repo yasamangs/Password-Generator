@@ -1,3 +1,5 @@
+![banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArw1dvFe9GhlKbDsws46nr8a-BzPo85eUJg&s)
+
 # Password-Generator
 
 ## Overview
@@ -16,8 +18,10 @@ This project is a simple password generator built using Streamlit. It allows use
 - **Password Customization:** Users can customize the password by choosing its length, the inclusion of numbers or symbols, and the format of the memorable password.
 - **Test Suite:** The project includes a set of tests to ensure the correctness of the password generation functions.
 
+## How to Run
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/password-generator.git
    ```
@@ -28,9 +32,14 @@ This project is a simple password generator built using Streamlit. It allows use
    pip install -r requirements.txt
    ```
 
-3. Run the application:
-   
+3. go to the repo directory in your terminal, run the following code to add src to your PYTHONPATH:
+
+   ```bash
+   python src/chat_statistics/chat_stat.py
+   ```
+
+4. Run the application:
+
    ```bash
    streamlit run app.py
    ```
-
