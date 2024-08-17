@@ -25,12 +25,12 @@ This project is a simple password generator built using Streamlit. It allows use
 2. Install the required dependencies:
  
   ```bash
-   pip install -r requirements.txt
+  pip install -r requirements.txt
   ```
 
 3. Run the application:
    
    ```bash
    streamlit run app.py
-  ```
+   
 
