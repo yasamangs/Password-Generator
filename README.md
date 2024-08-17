@@ -32,7 +32,7 @@ This project is a simple password generator built using Streamlit. It allows use
    pip install -r requirements.txt
    ```
 
-3. go to the repo directory in your terminal, run the following code to add src to your PYTHONPATH:
+3. Go to the repo directory in your terminal, run the following code to add src to your PYTHONPATH:
 
    ```bash
    python src/chat_statistics/chat_stat.py
@@ -43,3 +43,6 @@ This project is a simple password generator built using Streamlit. It allows use
    ```bash
    streamlit run app.py
    ```
+
+## Contributing
+Feel free to submit issues or pull requests if you'd like to contribute to the project. Any improvements or suggestions are welcome!
